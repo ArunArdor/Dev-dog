@@ -3,10 +3,6 @@
   /* TODO: 🐶9. can't I get a background with anchors on it? (hint: codePen) */
   body {
     background-image: url("anchor.png");
-    background-size: cover; /* or 'contain' */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-color: #f0f0f0; /* Just for debugging */
   }
 
 h4 {
